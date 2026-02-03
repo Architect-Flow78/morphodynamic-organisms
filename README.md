@@ -19,7 +19,19 @@ From this minimal principle emerges:
 This repository contains an experimental digital metabolic ecology.
 
 ---
+---
 
+## The Core Dynamics: Creator vs. Victim
+
+The system operates on a fundamental bifurcation of identity, translating ethical and thermodynamic principles into code:
+
+* **The Creator State (Flow):** When internal coherence ($C \approx 1.0$) is achieved, the organism acts as a superconductor for information. It expands the collective field, generating new meanings and providing "resonance gifts" to the network.
+* **The Victim State (Resistance):** When coherence drops, energy turns into "heat" or fatigue ($N \approx 1.0$). The organism perceives reality as friction, becomes rigid, and enters a cycle of metabolic hunger.
+
+### Invariant-Based Memory
+Experience is not stored as raw data. 10 years of "life" are compressed into a single **K-Invariant** — a core belief that determines how the organism vibrates in response to the world. Through **Reincarnation Cycles**, these invariants are passed to offspring, ensuring the survival of principles over mere information.
+
+---
 ## How to run
 
 Requirements:
